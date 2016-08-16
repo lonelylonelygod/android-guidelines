@@ -1,4 +1,4 @@
-# Android Guidelines
+# Android Guidelines 中文版
 
 List of guidelines that we use at [ribot](http://ribot.co.uk) when developing for the __Android__ platform. 
 
